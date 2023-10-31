@@ -1,2 +1,1 @@
-Rose Hedderman, rrh2298, roseh12@utexas.edu \
-Misty Peng, mp46528, mmddaxue@gmail.com
+# Repository of School Work Spring 2022 in Elements of Databases at UT Austin with project partner Misty Peng.
