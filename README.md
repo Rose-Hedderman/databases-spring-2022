@@ -1,1 +1,1 @@
-# Repository of projects from Elements of Databases with partner Misty Peng.
+# Repository of projects from Databases course with partner, Misty Peng.
